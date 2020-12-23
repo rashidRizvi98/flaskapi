@@ -40,7 +40,6 @@ sklearn==0.0
 threadpoolctl==2.1.0
 toml==0.10.2
 tornado==6.1
-traitlets==5.0.5
 urllib3==1.26.2
 virtualenv==20.2.2
 virtualenvwrapper-win==1.2.6
