@@ -23,4 +23,4 @@ if __name__ == '__main__':
 
     model = p.load(open(modelfile, 'rb'))
     
-    app.run(debug=True)
+  
